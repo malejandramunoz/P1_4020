@@ -1,4 +1,4 @@
-# Projecto #1 from the class Data Structures (CIIC 4020) 
+# Proyect #1 from the class Data Structures (CIIC 4020) 
 
 Written by Maria Alejandra Muñoz with structures worked inside the class.
 
